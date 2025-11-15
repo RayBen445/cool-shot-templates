@@ -29,7 +29,7 @@ Here is a list of all available templates.
 * **Tech Stack:** `Python`, `Flask`
 
 ### 3. Best-Practice `.github` Template
-* **Repository:** .github-template](https://github.com/RayBen445/.github-template)
+* **Repository:** [.github-template](https://github.com/RayBen445/.github-template)
 * **Description:** A meta-template with professional issue forms, a pull request checklist, and a CI/CD workflow for any project.
 * **Tech Stack:** `GitHub`, `YAML`
 
