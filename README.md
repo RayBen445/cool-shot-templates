@@ -23,5 +23,15 @@ Here is a list of all available templates.
 * **Description:** A clean, responsive, single-page portfolio built with only HTML and CSS. Perfect for developers to showcase their work.
 * **Tech Stack:** `HTML`, `CSS`
 
+### 2. Minimal Web API (Flask)
+* **Repository:** [minimal-api-flask](https://github.com/RayBen445/minimal-api-flask)
+* **Description:** A minimal, clean, and well-commented starter template for building a Web API with Python and Flask.
+* **Tech Stack:** `Python`, `Flask`
+
+### 3. Best-Practice `.github` Template
+* **Repository:** [best-practice-dot-github](https://github.com/RayBen445/best-practice-dot-github)
+* **Description:** A meta-template with professional issue forms, a pull request checklist, and a CI/CD workflow for any project.
+* **Tech Stack:** `GitHub`, `YAML`
+
 ---
 *More templates will be added here as we build them...*
